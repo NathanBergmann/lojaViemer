@@ -1,0 +1,71 @@
+            h1 {
+                color: rgb(245, 238, 238);
+                border: 1px;
+            }
+            
+            h2 {
+                color: black;
+            }
+            
+            img {
+                width: 50vmax;
+                height: 30vmin;
+            }
+            
+            .categoria {
+                text-align: center;
+                background-color: white;
+                border-radius: 10px;
+            }
+            
+            .categoria:hover {
+                background-color: rgb(67, 73, 151);
+                border-radius: 10px;
+                color: white;
+            }
+            
+            #iFundoCategorias {
+                background-image: url(../img/fundo.jpeg);
+                width: 100vmax;
+                height: 20vmin;
+            }
+            
+            .espacoMenu {
+                width: 100vmax;
+                height: 10vmin;
+            }
+            
+            .roupasLista {
+                width: 15vmax;
+                height: 20xmax;
+                border-radius: 10px;
+            }
+            
+            .margemEsquerda {
+                font-size: 3vmax;
+                font-size: 3vmin;
+                width: 4vmax;
+                width: 4vmin;
+                height: 4vmax;
+                height: 4vmin;
+                float: left;
+                box-sizing: border-box;
+            }
+            
+            .descricaoRoupas {
+                text-align: center;
+                width: 15vmax;
+                height: 20xmax;
+                border-radius: 10px;
+                text-align: center;
+            }
+            
+            .container2 {
+                width: 100vmax;
+                height: 40vmin;
+            }
+            
+            .container2>div {
+                float: left;
+                margin-left: 50px;
+            }
